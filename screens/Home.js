@@ -5,7 +5,7 @@ import { FontAwesome } from '@expo/vector-icons';
 import colors from '../color';
 import { Entypo } from '@expo/vector-icons';
 const catImageUrl = "hola";
-
+np
 const Home = () => {
 
     const navigation = useNavigation();
